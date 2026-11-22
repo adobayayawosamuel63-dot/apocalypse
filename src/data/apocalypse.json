@@ -1,0 +1,44 @@
+{
+  "livre": "Apocalypse",
+  "traduction": "Louis Segond 1920",
+  "totalChapitres": 22,
+  "chapitres": [
+    {
+      "chapitre": 1,
+      "versets": [
+        {
+          "verset": 1,
+          "texte": "Révélation de Jésus-Christ, que Dieu lui a donnée pour montrer à ses serviteurs les choses qui doivent arriver bientôt, et qu'il a fait connaître, par l'envoi de son ange, à son serviteur Jean,"
+        },
+        {
+          "verset": 2,
+          "texte": "lequel a attesté la parole de Dieu et le témoignage de Jésus-Christ, tout ce qu'il a vu."
+        },
+        {
+          "verset": 3,
+          "texte": "Heureux celui qui lit et ceux qui entendent les paroles de la prophétie, et qui gardent les choses qui y sont écrites! Car le temps est proche."
+        },
+        {
+          "verset": 4,
+          "texte": "Jean aux sept Églises qui sont en Asie: que la grâce et la paix vous soient données de la part de celui qui est, qui était, et qui vient, et de la part des sept esprits qui sont devant son trône,"
+        },
+        {
+          "verset": 5,
+          "texte": "et de la part de Jésus-Christ, le témoin fidèle, le premier-né des morts, et le prince des rois de la terre! A celui qui nous aime, qui nous a délivrés de nos péchés par son sang,"
+        },
+        {
+          "verset": 6,
+          "texte": "et qui a fait de nous un royaume, des sacrificateurs pour Dieu son Père, à lui soient la gloire et la puissance, aux siècles des siècles! Amen!"
+        },
+        {
+          "verset": 7,
+          "texte": "Voici, il vient avec les nuées. Et tout œil le verra, même ceux qui l'ont percé; et toutes les tribus de la terre se lamenteront à cause de lui. Oui. Amen!"
+        },
+        {
+          "verset": 8,
+          "texte": "Je suis l'alpha et l'oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout-Puissant."
+        }
+      ]
+    }
+  ]
+}
