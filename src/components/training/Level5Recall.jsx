@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { CheckCircle2, Eraser, Mic, MicOff, TriangleAlert } from 'lucide-react';
+import { CheckCircle2, Eraser, Mic, MicOff, TriangleAlert, XCircle } from 'lucide-react';
 import { diffWords } from '../../lib/text';
 import { createRecognition, recognitionSupported } from '../../lib/speech';
 
